@@ -11,13 +11,13 @@ Welcome to the Cargomatic Challenge repository!
 
 Welcome to the Cargomatic Project Challenge. This repository houses the solutions for **Cargomatic Project Challenge 01**, which focuses on managing AWS EC2 instances through Python scripts and Terraform configurations. The challenge comprises three key tasks:
 
-### Python Script (`ec2-management.py`) - list_running_instances() method
+### Python Script (`ec2-management.py`)
 
 - **Objective**: List all running EC2 instances in a specified AWS region.
 - **Usage**: Run the Python script using the command: `python ec2-managment.py list-running-instances <AWS_REGION>`
 - **Dependencies**: Requires Boto3. Install using `pip install boto3`.
 
-### Integration (`stop_old_instances.py`) - stop_instances() method
+### Integration (`stop_old_instances.py`)
 
 - **Objective**: Stop EC2 instances created more than a week ago.
 - **Usage**: Run the Python script using the command: `python ec2-managment.py stop-instances <AWS_REGION>`

@@ -1,15 +1,10 @@
 # Cargomatic Project Challenge
 
-Welcome to the Cargomatic Challenge repository!
-
-![fxUT](https://github.com/curiousPLe/cargomatic-project/assets/43125083/7beebb6c-f7a5-453a-8f71-011893c6274b)
+Welcome to the 🚙 **Cargomatic Project Challenge**
 
 ![VhdI](https://github.com/curiousPLe/cargomatic-project/assets/43125083/11255e9c-4369-4cd5-ae10-19a5d70e13ce)
 
-
-# Cargomatic Project:
-
-Welcome to the Cargomatic Project Challenge. This repository houses the solutions for **Cargomatic Project Challenge 01**, which focuses on managing AWS EC2 instances through Python scripts and Terraform configurations. The challenge comprises three key tasks:
+This repository houses the solutions for the **Cargomatic Project Challenge 01**, which focuses on managing AWS EC2 instances through Python scripts and Terraform configurations. The challenge comprises three key tasks:
 
 ### Python Script (`ec2-management.py`)
 
@@ -48,3 +43,9 @@ Welcome to the Cargomatic Project Challenge. This repository houses the solution
 3. **Task Execution**
 
     For each task, navigate to the respective directory and follow the instructions provided in the individual task usage of the README file.
+
+##########
+
+Thank you for reading 😄
+
+![fxUT](https://github.com/curiousPLe/cargomatic-project/assets/43125083/7beebb6c-f7a5-453a-8f71-011893c6274b)

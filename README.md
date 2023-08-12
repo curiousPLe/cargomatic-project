@@ -2,7 +2,7 @@
 
 Welcome to the 🚙 **Cargomatic Project Challenge**
 
-![VhdI](https://github.com/curiousPLe/cargomatic-project/assets/43125083/11255e9c-4369-4cd5-ae10-19a5d70e13ce)
+![VhdI](https://github.com/curiousPLe/cargomatic-project/assets/43125083/7f85ed53-8200-4b56-93b3-b44e6186c814)
 
 This repository houses the solutions for the **Cargomatic Project Challenge 01**, which focuses on managing AWS EC2 instances through Python scripts and Terraform configurations. The challenge comprises three key tasks:
 
@@ -48,4 +48,5 @@ This repository houses the solutions for the **Cargomatic Project Challenge 01**
 
 Thank you for reading 😄 Have a great day!
 
-![fxUT](https://github.com/curiousPLe/cargomatic-project/assets/43125083/7beebb6c-f7a5-453a-8f71-011893c6274b)
+![fxUT](https://github.com/curiousPLe/cargomatic-project/assets/43125083/4be705cd-6a3c-4ce9-948d-0d0d54e33258)
+

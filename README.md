@@ -46,6 +46,6 @@ This repository houses the solutions for the **Cargomatic Project Challenge 01**
 
 ##########
 
-Thank you for reading 😄
+Thank you for reading 😄 Have a great day!
 
 ![fxUT](https://github.com/curiousPLe/cargomatic-project/assets/43125083/7beebb6c-f7a5-453a-8f71-011893c6274b)

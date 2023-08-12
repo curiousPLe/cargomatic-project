@@ -4,8 +4,8 @@ Welcome to the Cargomatic Challenge repository!
 
 ![fxUT](https://github.com/curiousPLe/cargomatic-project/assets/43125083/7beebb6c-f7a5-453a-8f71-011893c6274b)
 
+![VhdI](https://github.com/curiousPLe/cargomatic-project/assets/43125083/11255e9c-4369-4cd5-ae10-19a5d70e13ce)
 
-![VhdI](https://github.com/curiousPLe/cargomatic-project/assets/43125083/e6fecad4-bb85-455b-9587-d1dfeecd6fd8)
 
 # Cargomatic Project:
 

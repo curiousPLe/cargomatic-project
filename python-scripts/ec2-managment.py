@@ -55,7 +55,7 @@ def stop_instances(aws_region, max_age=7):
 			  	
 			  	# Calculate instance age and stop instances older than max_age
 			  	instance_age = (now - launch_time).days
-			  	if instance_age < max_age:
+			  	if instance_age > max_age:
 			  		print("Stopping instance ", instance_id, " - Instance age: ", instance_age, " days)")
 			  		ec2_client.stop_instances(InstanceIds=[instance_id])
 

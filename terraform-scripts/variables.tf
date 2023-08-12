@@ -28,5 +28,10 @@ variable "subnet_id" {
 
 variable "user_data_script" {
   description = "Provide initialization scripts that are executed when an instance is launched"
-  default = ""
+  default = <<-EOF
+            #!/bin/bash
+            sudo yum update -y
+            sudo yum install -y python3
+            python3 --version
+            EOF
 }
